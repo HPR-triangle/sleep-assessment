@@ -12,7 +12,7 @@ Currently in use on [maxfacts.uk](http://maxfacts.uk) - a resource on all aspect
 Demo
 ----
 
-See [laurenkt.github.io/magic-triangle](https://laurenkt.github.io/magic-triangle/).
+See [hpr-triangle.github.io/sleep-assessment/](https://hpr-triangle.github.io/sleep-assessment/).
 
 Installation
 ------------
