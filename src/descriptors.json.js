@@ -1,5 +1,5 @@
 export default {
-	"Appearance": {
+	"Sleep environment": {
 		__description: "",
 		"Self": null,
 		"Others in private": null,
